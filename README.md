@@ -26,7 +26,7 @@ pip install rich
 ## How to Run
 
 ```bash
-python NetworkScanner.py
+python "Network Scanner & Monitor.py"
 ```
 
 Use the menu to select:
